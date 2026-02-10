@@ -1140,16 +1140,7 @@ ls -la /etc/apt/sources.list.d/infraknit-*
 | File Rollback | Yes | No (planned) |
 | Self-Update | Yes | No (planned) |
 
----
 
-## Version History
-
-| Version | Date | Changes |
-|---------|------|---------|
-| 1.0.0 | 2025-02 | Initial release with full job execution |
-| 1.1.0 | 2026-02 | Per-app per-codename APT repository integration, Linux .deb patch support, Service Pack patch items, Script execution fix (JSON parameters parsing) |
-
----
 
 ## License
 
